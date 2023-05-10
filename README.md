@@ -52,12 +52,11 @@ Alongside my exploration of programming languages and telecom, I've acquired a d
     16. C++ Tutorial - issued by Great Learning
     17. Flask Python - issued by Great Learning
 
-
 As mentioned in the languages section, I possess certificates in three different languages, which are:
 
-    18. C1 Advanced - issued by Cambridge University
-    19. DELF B2 - issued by French Ministry of Education
-    20. C1 Grau Mitjà - issued by Junta Qualificadora de Coneixements de Valencià (JQCV)
+    18. English: C1 Advanced - issued by Cambridge University
+    19. French: DELF B2 - issued by French Ministry of Education
+    20. Valencian: C1 Grau Mitjà - issued by Junta Qualificadora de Coneixements de Valencià (JQCV)
 
 
 ## Publications
