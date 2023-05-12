@@ -28,7 +28,7 @@ I'm someone who thoroughly enjoys the process of learning languages. The fascina
 
 ## Certificates 
 
-I'm an avid learner with a deep passion for all things aviation-related. I find great joy in expanding my knowledge and understanding of this dynamic industry. To quench my thirst for knowledge, I actively seek out courses and educational opportunities that delve into various aspects of aviation. These courses provide me with valuable insights, enabling me to explore topics such as aviation safety, air traffic control, and aviation management. By continuously investing in my education, I strive to enhance my understanding of the aviation sector and stay up-to-date with the latest advancements. The following six certificates correspond to courses offered by EUROCONTROL that allowed me to broaden my knowledge in the world of aviation.
+I'm an avid learner with a deep passion for all things aviation-related. I find great joy in expanding my knowledge and understanding of this dynamic industry. To quench my thirst for knowledge, I actively seek out courses and educational opportunities that delve into various aspects of aviation. These courses provide me with valuable insights, enabling me to explore topics such as aviation safety, air traffic control, and aviation management. By continuously investing in my education, I strive to enhance my understanding of the aviation sector and stay up-to-date with the latest advancements. The following certificates correspond to courses offered by EUROCONTROL that allowed me to broaden my knowledge in the world of aviation.
 
 
     1. Introduction to TCAS [ATC-I-TCAS]
