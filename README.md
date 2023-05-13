@@ -56,8 +56,9 @@ Alongside my exploration of programming languages and telecom, I've acquired a d
 As mentioned in the languages section, I possess certificates in three different languages, which are:
 
     19. English: C1 Advanced - issued by Cambridge University
-    20. French: DELF B2 - issued by French Ministry of Education
-    21. Valencian: C1 Grau Mitjà - issued by Junta Qualificadora de Coneixements de Valencià (JQCV)
+    20. English: C2 Proficiency - issued by EF Standard English Test (EF SET)
+    21. French: DELF B2 - issued by French Ministry of Education
+    22. Valencian: C1 Grau Mitjà - issued by Junta Qualificadora de Coneixements de Valencià (JQCV)
 
 
 ## Publications
