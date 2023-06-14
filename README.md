@@ -74,7 +74,7 @@ To learn more, visit the [PIER-C publication](https://www.jpier.org/issues/volum
 
 ## Honors
 
-World ATM Congress 2022 - Madrid, SpainWorld ATM Congress 2022 - Madrid, Spain
+World ATM Congress 2022 - Madrid, Spain
 
 Attending World ATM Congress 2022, the world's largest international air traffic management (ATM) exhibition and conference, gave me a deeper insight into how fascinating aerospace industry is, the needs and future of the aviation sector, and the significant role that telecommunications play when innovating and improving traffic management services (commercial aviation and UAS applications) guaranteeing the well-being and safety of population all around the globe.
 
