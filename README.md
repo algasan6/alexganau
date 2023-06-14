@@ -38,27 +38,28 @@ I'm an avid learner with a deep passion for all things aviation-related. I find 
     5. Level Bust [ATC-R-LVLB]
     6. Flight Efficiency: Re-routing & Fuel costs [NMO-ATFCM-FE]
     7. Mach Number Technique [ATC-R-MACH]
+    8. Fundamentals of Airport Collaborative Decision Making [APT-ACDM-FUND]
 
 Alongside my exploration of programming languages and telecom, I've acquired a diverse range of certificates that reflect my versatile interests. From being a certified drone operator, equipped with the skills to navigate the skies safely, to obtaining certifications in Python programming, I've cultivated a wide array of expertise. These certificates highlight my commitment to continuous learning and showcase my proficiency in different domains.
 
-    8. UAS/Drones Operations - Open Category A1/A3
-    9. DAT208x: Introduction to Python for Data Science - issued by Microsoft
-    10. DTL03.1x: Digital Transformation: Leadership - issued by KTH Royal Institute of Technology
-    11. CPN01x: Cyber-Physical Networks - issued by KTH Royal Institute of Technology
-    12. HKU_08x: Introduction to FinTech - issued by The University of Hong Kong
-    13. MEPHI003x: From Atoms to Stars: How Physics Explains Our World - issued by National Research Nuclear University MEPhI 
-    14. LFS113x: Business Considerations for Edge Computing - issued by The Linux Foundation
-    15. LFS110x: Business Considerations for 5G, IoT and AI - issued by The Linux Foundation
-    16. Learn C++ Language From Zero To Expert - issued by Udemy
-    17. C++ Tutorial - issued by Great Learning
-    18. Flask Python - issued by Great Learning
+     9. UAS/Drones Operations - Open Category A1/A3
+    10. DAT208x: Introduction to Python for Data Science - issued by Microsoft
+    11. DTL03.1x: Digital Transformation: Leadership - issued by KTH Royal Institute of Technology
+    12. CPN01x: Cyber-Physical Networks - issued by KTH Royal Institute of Technology
+    13. HKU_08x: Introduction to FinTech - issued by The University of Hong Kong
+    14. MEPHI003x: From Atoms to Stars: How Physics Explains Our World - issued by National Research Nuclear University MEPhI 
+    15. LFS113x: Business Considerations for Edge Computing - issued by The Linux Foundation
+    16. LFS110x: Business Considerations for 5G, IoT and AI - issued by The Linux Foundation
+    17. Learn C++ Language From Zero To Expert - issued by Udemy
+    18. C++ Tutorial - issued by Great Learning
+    19. Flask Python - issued by Great Learning
 
 As mentioned in the languages section, I possess certificates in three different languages, which are:
 
-    19. English: C1 Advanced - issued by Cambridge University
-    20. English: C2 Proficiency - issued by EF Standard English Test (EF SET)
-    21. French: DELF B2 - issued by French Ministry of Education
-    22. Valencian: C1 Grau Mitjà - issued by Junta Qualificadora de Coneixements de Valencià (JQCV)
+    20. English: C1 Advanced - issued by Cambridge University
+    22. English: C2 Proficiency - issued by EF Standard English Test (EF SET)
+    22. French: DELF B2 - issued by French Ministry of Education
+    23. Valencian: C1 Grau Mitjà - issued by Junta Qualificadora de Coneixements de Valencià (JQCV)
 
 
 ## Publications
