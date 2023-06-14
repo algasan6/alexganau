@@ -1,7 +1,7 @@
 
 # About me
 
-Hello! I'm Alex. A telecom engineer passionate about space technology and navigation systems. 
+Hello! I'm Alex. A telecom systems engineer passionate about space technology and navigation systems. 
 
 I was born in La Vall d'Uixó (Castelló) on October 19, 1999. Currently, I live in Valencia, Spain. 
 
