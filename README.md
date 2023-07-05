@@ -10,19 +10,50 @@ Allow me to provide you with some details that will help you get to know me bett
 
 ## Education & Experience
 
-From 2017 to 2021, I studied the Bachelor's Degree in Telecommunication Engineering at Universitat Politècnica de València (UPV). By the third year, I specialised in telecommunication systems where I could learn about radionavigation, spatial communications, antennas, and many more subjects I was really interested in. In February 2021, I joined the Air Navigation Systems (SNA) research group from the UPV to start an intership at the same time I was doing my bachelor's thesis. Under the name "Design and Validation of Reflector Elements to Increase the Radar Cross-Section of Small Drones", the project consisted of designing Luneburg lenses, some kind of passive radar reflectors, with the aim of being inserted in the structures of small drones to enhance their RCSs and thus, providing radars with passive ways of detection, tracking, and identification of drones. 
+• From 2017 to 2021, I studied the Bachelor's Degree in Telecommunication Engineering at Universitat Politècnica de València (UPV). By the third year, I specialised in telecommunication systems where I could learn about radionavigation, spatial communications, antennas, and many more subjects I was really interested in. Then, from 2021 to 2023, I enrolled in the Master's degree in Telecommunication Engineering, also at UPV.
 
-From 2021 to 2023, I studied the Master's Degree in Telecommunication Engineering also at UPV. During the first year, I continued to accrue valuable work experience at the SNA group by developing multi-radar tracking algorithms for integrating low-cost radars with GNSS-based systems. For the master's thesis, and thus, during my last academic year, I could initiate in the world of ATM with techniques to provide real-time data of the airplanes positions to ATCs through the implementation of hybrid error estimators and inverse location problems using localization/regularization algorithms based on TDOA, AOA, and FDOA for space-based multilateration in ADS-B systems, making use of LEO satellite constellations. 
+• In February 2021, I joined the Air Navigation Systems (SNA) research group from the UPV to start an intership at the same time I was doing my bachelor's thesis, with the aim of developing cutting-edge passive radar reflectors for tracking and identification of UAVs in the form of Luneburg lenses, given their outstanding refractive properties:
+
+    • Design and EM study of several Luneburg lenses (in FEKO) to serve as radar reflectors for tracking and identification applications of unmanned aircraft.
+    
+    • Considerable enhancement of the radar cross-section (RCS) of small drones making them apparently (physically) bigger to radars.
+    
+    • Realization of flight tests (with two DJI drones) to test the performance of the Luneburg lenses, clearly demonstrating the benefits of using these low-cost low-weight passive radar reflectors.
+    
+    • Integration of low-cost radars with GNSS-based systems developing multi-radar tracking algorithms in Python to cross-check simulated data from a commercial radar module (DK-sR-1200e IMST GmbH 24 GHz) and captured data obtained in a Python program.
+
+• For the master's thesis, and thus, during my last academic year, I could initiate in the world of ATM with space-based multilateration (SBM) systems: 
+
+    • Study of the performance of composite ADS-B + space-based E-MLAT systems for ATC/ATM using LEO satellite constellations.
+    
+    • Design of a user-friendly Matlab GUI for simulations.
+    
+    • Development of hybrid error estimators (TDOA + AOA + FDOA) to obtain the Theoretical Horizontal Position Accuracy (THPA) and the Horizontal Dilution of Precision (HDOP) based on the CRLB limit.
+    
+    • Proposal of reliable and consistent SBM models for the different error measurement sources (TOA, satellite position, …) to be embedded in the receiving stations (satellites).
+    
+    • Estimation of trajectory-based aircraft positions in the North Atlantic (NAT) region (the world’s most congested airspace) solving inverse location problems by implementing these localization algorithms & regularization methods:
+    
+     • Smith & Abel algorithm
+     • Friedlander algorithm
+     • Schau & Robinson algorithm
+     • Chan & Ho algorithm
+     • Bancroft algorithm 
+     • Taylor-series expansion method
+    
+     • Tikhonov regularization method
+     • Truncated SVD (T-SVD) method
+     • Truncated TLS (T-TLS) method
 
 
 ## Languages
 
 I'm someone who thoroughly enjoys the process of learning languages. The fascination of exploring different linguistic systems and unlocking new avenues of communication has always captivated me. The excitement of immersing myself in diverse cultures and gaining insights into their rich heritage through their languages fuels my passion for language learning. Whether it's mastering the intricacies of grammar rules, expanding my vocabulary, or engaging in conversations with native speakers, I embrace the challenges and rewards that come with this lifelong pursuit. I'm fluent in four languages, and learning a fifth one, which are:
 
-    English: C1/C2 level - Full professional proficiency
-    French: B2/C1 level - Professional working proficiency
     Spanish: Native 
-    Valencian: Bilingual proficiency
+    Valencian: Bilingual
+    English: Fluent - C1/C2 level
+    French: Fluent - B2/C1 level
     Russian: Basic knowledge - Elementary proficiency
 
 
